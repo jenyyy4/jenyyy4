@@ -1,16 +1,18 @@
-## Hi there 👋
+# Anuska
 
-<!--
-**jenyyy4/jenyyy4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer)
+---
 
-Here are some ideas to get you started:
+📌 **Portfolio**: [https://jenyyy4.github.io/portfolio/](https://jenyyy4.github.io/portfolio/)  
+📫 **Email**: anuskaroy0410@gmail.com  
+💼 **LinkedIn**: [@anuskaroy4](https://www.linkedin.com/in/anuskaroy4/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects  
+- **[PixieCycle](https://github.com/jenyyy4/PixieCycle)** → _A sustainable Period Tracker_
+- **[Weather App](https://github.com/jenyyy4/weather-app)** → _An app that shows you the weather_  
+
+---
+
+💡 _I love coding and open source!_
