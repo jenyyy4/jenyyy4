@@ -11,7 +11,8 @@
 
 ## 📌 Projects  
 - **[PixieCycle](https://github.com/jenyyy4/PixieCycle)** → _A sustainable Period Tracker_
-- **[Weather App](https://github.com/jenyyy4/weather-app)** → _An app that shows you the weather_  
+- **[Weather App](https://github.com/jenyyy4/weather-app)** → _An app that shows you the weather_
+- - **[GitHub User Finder](https://github.com/jenyyy4/github-user-finder)** → _An app that finds a github user_  
 
 ---
 
