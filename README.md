@@ -1,4 +1,4 @@
-# Anuska
+# ♡ Anuska ♡
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer)
 ---
