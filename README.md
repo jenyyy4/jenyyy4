@@ -16,4 +16,4 @@
 
 ---
 
-💡 _I love coding and open source!_
+> 💡 _I love coding and open source!_
