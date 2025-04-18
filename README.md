@@ -10,9 +10,10 @@
 ---
 
 ## 📌 Projects  
-- **[PixieCycle](https://github.com/jenyyy4/PixieCycle)** → _A sustainable Period Tracker_
+- **[Sugar & Swirl](https://github.com/jenyyy4/sugar-and-swirl)** → _An app that lets you order desserts_
 - **[Weather App](https://github.com/jenyyy4/weather-app)** → _An app that shows you the weather_
-- **[GitHub User Finder](https://github.com/jenyyy4/github-user-finder)** → _An app that finds a github user_  
+- **[GitHub User Finder](https://github.com/jenyyy4/github-user-finder)** → _An app that finds a github user_
+- **[PixieCycle](https://github.com/jenyyy4/PixieCycle)** → _A sustainable Period Tracker (app in progress)_
 
 ---
 
