@@ -11,6 +11,7 @@
 
 ## 📌 Projects  
 - **[AiHub](https://github.com/jenyyy4/ai-hub)** → _An app that lets you use AI tools to make your life easier_
+- **[AI Rock Paper Scissors](https://github.com/jenyyy4/ai-rock-paper-scissors)** → _A game where users can play rock paper scissors with AI and the AI always wins_
 - **[Sugar & Swirl](https://github.com/jenyyy4/sugar-and-swirl)** → _An app that lets you order desserts_
 - **[Weather App](https://github.com/jenyyy4/weather-app)** → _An app that shows you the weather_
 - **[GitHub User Finder](https://github.com/jenyyy4/github-user-finder)** → _An app that finds a github user_
